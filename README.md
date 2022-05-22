@@ -6,4 +6,4 @@ This website generates a random, unique password for the user based on critera t
 https://abbyrosenthal.github.io/password-generatorAR/
 
 ## Screenshot of Website
-[](passwordPicture.png)
+![Screenshot](passwordPicture.png)
