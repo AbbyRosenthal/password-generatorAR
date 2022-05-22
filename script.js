@@ -31,11 +31,11 @@ var passwordLength = parseInt(prompt( "Please select a number between 8 and 128 
 console.log(passwordLength);
 
 if (passwordLength < 8) {
-  console.log("Password is less than 8")
+  alert("Password is less than 8")
 }
 
 if (passwordLength > 128) {
-  console.log("Password is greater than 128")
+  alert("Password is greater than 128")
 }
 
 let newPassword = [];
