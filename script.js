@@ -32,10 +32,14 @@ console.log(passwordLength);
 
 if (passwordLength < 8) {
   alert("Password is less than 8")
+
+  return generatePassword();
 }
 
 if (passwordLength > 128) {
   alert("Password is greater than 128")
+
+  return generatePassword();
 }
 
 let newPassword = [];
