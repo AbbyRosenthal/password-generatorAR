@@ -1,10 +1,6 @@
 // Assignment code here
 
 var uniquePassword = [];
-//opening prompt to direct user to create a password
-window.alert(" Welcome to Password Generator!  Please answer a few questions before your unique password can be made");
-
-
 
 function generatePassword() {
 //series of confirms to determine what the user would like to include
